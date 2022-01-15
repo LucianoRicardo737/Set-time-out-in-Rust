@@ -3,7 +3,7 @@
 Add to cargo.toml the dependency
 
 ```[dependencies]
-set_time_out = "0.1.1"
+set_time_out = "0.1.4"
 ```
 
 Easy peasy. 
