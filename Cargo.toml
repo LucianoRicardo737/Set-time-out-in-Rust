@@ -3,11 +3,10 @@ name = "set_time_out"
 version = "0.1.0"
 edition = "2021"
 authors = ["UniCorp <lucianoricardo@unicorp.com.ar>"]
-license = "MIT"
+license = "MIT/Apache-2.0"
 description = "Function to delay the execution of a function"
-
-[[bin]]
-name = "set_time_out"
-path = "src/lib.rs"
+repository = "https://github.com/LucianoRicardo737/set_time_out_rust"
+homepage = "https://github.com/LucianoRicardo737/set_time_out_rust"
+keywords= "time, timeout, delay, set_time_out"
 
 [dependencies]
