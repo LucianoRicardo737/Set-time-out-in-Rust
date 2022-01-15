@@ -7,6 +7,5 @@ license = "MIT/Apache-2.0"
 description = "Function to delay the execution of a function"
 repository = "https://github.com/LucianoRicardo737/set_time_out_rust"
 homepage = "https://github.com/LucianoRicardo737/set_time_out_rust"
-keywords= "time, timeout, delay, set_time_out"
 
 [dependencies]
