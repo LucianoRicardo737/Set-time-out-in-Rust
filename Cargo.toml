@@ -8,6 +8,6 @@ description = "Function to delay the execution of a function"
 
 [[bin]]
 name = "set_time_out"
-path = "src/set_time_out.rs"
+path = "src/lib.rs"
 
 [dependencies]
