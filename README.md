@@ -16,4 +16,4 @@ and invoque
 
 ```set_time_out(1500);```
 
-The time is in milliseconds. Have nice day.
+The time is in milliseconds. Have nice day. 
