@@ -12,6 +12,11 @@ Import the function  and used.
 
 ```use set_time_out::set_time_out;```
 
+or 
+
+```use set_time_out::set_time_out_callback;```
+
+
 and invoque
 
 ```
