@@ -3,7 +3,7 @@
 Add to cargo.toml the dependency
 
 ```[dependencies]
-set_time_out = "0.2.0"
+set_time_out = "0.2.1"
 ```
 
 Easy peasy. 
@@ -48,6 +48,8 @@ fn say_hello() {
 }
 
 set_time_out_callback(1000, None);
+
+say_hello();
 ```
 
 
